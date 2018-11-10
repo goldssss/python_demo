@@ -25,7 +25,7 @@ SECRET_KEY = 'ti21i(zd(w$!huof*%6e7isfqfh5nam9vh+(+h=*@u8q@a**-7'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
